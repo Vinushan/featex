@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.14%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![CI/CD](https://github.com/yourusername/featex/workflows/CI/badge.svg)](https://github.com/yourusername/featex/actions)
+[![CI/CD](https://github.com/Vinushan/featex/workflows/CI/badge.svg)](https://github.com/Vinushan/featex/actions)
 
 **FeatEx** is a Python library designed to simplify feature engineering and the creation of point-in-time (PIT) datasets for machine learning workflows. It provides tools for temporal feature engineering, data aggregation, and generating consistent training/evaluation datasets that respect time boundaries.
 
@@ -27,7 +27,7 @@ uv pip install featex
 We recommend using [uv](https://docs.astral.sh/uv/) for fast, reliable development setup:
 
 ```bash
-git clone https://github.com/yourusername/featex.git
+git clone https://github.com/Vinushan/featex.git
 cd featex
 uv sync  # Creates virtual environment and installs dependencies
 uv run make test  # Verify installation
@@ -153,14 +153,14 @@ If you use FeatEx in your research, please cite it as:
   author = {Your Name},
   title = {FeatEx: Feature Engineering for Point-in-Time Datasets},
   year = {2024},
-  url = {https://github.com/yourusername/featex}
+  url = {https://github.com/Vinushan/featex}
 }
 ```
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/featex/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/featex/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Vinushan/featex/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Vinushan/featex/discussions)
 
 ## Roadmap
 

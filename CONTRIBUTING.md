@@ -11,7 +11,7 @@ Please be respectful and constructive in all interactions.
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/yourusername/featex.git
+   git clone https://github.com/Vinushan/featex.git
    cd featex
    ```
 3. **Set up development environment** using [uv](https://docs.astral.sh/uv/):

@@ -14,7 +14,7 @@ Or install from source for development:
 
 .. code-block:: bash
 
-    git clone https://github.com/yourusername/featex.git
+    git clone https://github.com/Vinushan/featex.git
     cd featex
     uv pip install -e ".[dev]"
 

@@ -35,7 +35,7 @@ Once UV is installed, set up the project:
 
 ```bash
 # Clone and navigate
-git clone https://github.com/yourusername/featex.git
+git clone https://github.com/Vinushan/featex.git
 cd featex
 
 # Create virtual environment and install all dependencies

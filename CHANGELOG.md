@@ -34,5 +34,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Project structure and documentation
 - Basic package setup
 
-[Unreleased]: https://github.com/yourusername/featex/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yourusername/featex/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Vinushan/featex/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/Vinushan/featex/releases/tag/v0.1.0

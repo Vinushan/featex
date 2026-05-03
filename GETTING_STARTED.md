@@ -78,7 +78,7 @@ Update these files with your information:
 Replace:
 - `Your Name` → Your name
 - `your.email@example.com` → Your email
-- `yourusername` → Your GitHub username
+- `yourusername` → Vinushan
 
 ### 2. Initialize Git Repository
 ```bash
